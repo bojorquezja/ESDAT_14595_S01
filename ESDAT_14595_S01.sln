@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listaenlazada", "listaenlazada\listaenlazada.csproj", "{F3AEEF98-A558-4DA2-93F1-94180B26B44E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3AEEF98-A558-4DA2-93F1-94180B26B44E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3AEEF98-A558-4DA2-93F1-94180B26B44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3AEEF98-A558-4DA2-93F1-94180B26B44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3AEEF98-A558-4DA2-93F1-94180B26B44E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2545819D-B7A0-4C2C-98F0-0D783B9E7994}
+	EndGlobalSection
+EndGlobal
